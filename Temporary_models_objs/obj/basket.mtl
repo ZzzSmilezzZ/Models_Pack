@@ -1,12 +1,12 @@
 # Blender MTL File: 'temporary_objects.blend'
 # Material Count: 1
 
-newmtl Stone
-Ns 0.000000
+newmtl Material.003
+Ns 711.111122
 Ka 1.000000 1.000000 1.000000
-Kd 0.190178 0.190178 0.190178
-Ks 0.176923 0.176923 0.176923
+Kd 0.214035 0.111476 0.024620
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
+illum 1
